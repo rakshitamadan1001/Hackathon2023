@@ -4,7 +4,7 @@ from bs4 import BeautifulSoup
 
 
 
-api_key = "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"
+api_key = "enter your own api key"
 
 model_engine = "text-davinci-002"  # Use a pre-trained model specifically designed for generating questions
 
